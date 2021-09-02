@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CAAC;EACE,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,UAAU;EACtB,OAAO,EAAE,IAAI;CAChB;;AAID,AAAA,IAAI,CAAC;EACD,UAAU,EAHP,OAAe;EAIlB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;CAChB",
+    "sources": [
+        "access.scss",
+        "_base.scss",
+        "_menu.scss",
+        "_help.scss",
+        "_search.scss",
+        "_settings.scss",
+        "_main.scss",
+        "_component.scss"
+    ],
+    "names": [],
+    "file": "access.css"
+}
