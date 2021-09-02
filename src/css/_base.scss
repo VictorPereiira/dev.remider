@@ -6,9 +6,12 @@
 }
 
 $dark: rgb(39, 39, 39);
+$white: rgb(226, 226, 226);
 
-main {
+.app {
     background: $dark;
     width: 100%;
     height: 100vh;
+
+    color: $white;
 }
