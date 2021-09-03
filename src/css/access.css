@@ -33,5 +33,30 @@ menu {
 main section {
   position: relative;
   height: 150px;
+  padding: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+main .tech .tech_card {
+  background: #2f2f2f;
+  width: 115px;
+  height: 115px;
+  padding: 18px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+main .tech img {
+  width: 100%;
+  cursor: pointer;
 }
 /*# sourceMappingURL=access.css.map */

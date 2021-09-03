@@ -2,5 +2,25 @@ main {
     section {
         position: relative;
         height: 150px;
+        padding: 20px;
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .tech {
+        .tech_card {
+            background: #2f2f2f;
+            width: 115px;
+            height: 115px;
+            padding: 18px;
+            align-items: center;
+        }
+
+        img {
+            width: 100%;
+            cursor: pointer;
+        }
     }
 }
